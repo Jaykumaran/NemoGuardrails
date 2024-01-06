@@ -1,0 +1,5 @@
+-RTX 4090, the current flagship, boasts a massive 16384 CUDA cores, delivering a significant boost over its predecessor.
+-RTX 4080, a step below, still packs a punch with 10752 CUDA cores, offering impressive performance for gaming and creative workflows.
+-RTX 3090 Ti, the former top-tier model, holds 10752 CUDA cores, proving its capabilities in professional workloads.
+-RTX 3080 Ti, a popular choice for gamers, features 10240 CUDA cores, balancing performance and value.
+-RTX A6000, a professional workstation powerhouse, wields 10752 CUDA cores, excelling in AI, rendering, and simulation tasks.
